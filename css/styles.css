@@ -1,24 +1,24 @@
 body {
-  font-family: Arial, sans-serif;
-  color: black;
-  background-color: #fbbfad;
-  margin: 0;
-  padding: 0;
-}
-
-header {
-  margin: 20px 0;
-}
-
-.menu-item {
-  background-color: #f8f8f8;
-  border: 1px solid #ddd;
-  padding: 20px;
-  margin-bottom: 20px;
-}
-
-.menu-item h2 {
-  background-color: #ddd;
-  padding: 10px;
-  text-align: center;
-}
+    font-family: Arial, sans-serif;
+    color: black;
+    background-color: #fbbfad;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    margin: 20px 0;
+  }
+  
+  .menu-item {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .menu-item h2 {
+    background-color: #ddd;
+    padding: 10px;
+    text-align: center;
+  }
